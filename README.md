@@ -2,11 +2,10 @@
 
 ***liporuwcha namespace "c - configuration, migration, updates"***
 
- ![maintained](https://img.shields.io/badge/maintained-green)
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
- ![liporuwcha](https://bestia.dev/webpage_hit_counter/get_svg_image/000.svg)
+ ![c_configuration_migration_updates](https://bestia.dev/webpage_hit_counter/get_svg_image/1099681671.svg)
 
 ## c - configuration, migration, update
 
