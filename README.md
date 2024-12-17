@@ -16,20 +16,22 @@ When writing the code it must be always careful, that it does not break when a n
 
 To achieve integrity of the database all the code is concentrated inside the database. So other parts of the project can use common code.
 
-ca - database objects
+### ca - database objects
 
-- caa - postgres server utils
-- cab - postgres database utils
-- cat - tables
-- caf - fields
-- cav - view
-- cap - procedures  
+- caa_ postgres server utils
+- cab_ postgres database utils
+- cat_ tables
+- caf_ fields
+- cav_ view
+- cap_ procedures  
 
-cj - migration:  
+### cj - migration
+
 how to migrate every table separately. Ideally without server downtime.
 
-cs - backup and restore
-ct - development, testing and production environment
+### cs - backup and restore
+
+### ct - development, testing and production environment
 
 ## Open-source and free as a beer
 
