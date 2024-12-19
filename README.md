@@ -1,13 +1,13 @@
-# c_configuration_migration_updates
+# c___configuration_migration_updates
 
-***liporuwcha namespace "c - configuration, migration, updates"***
+***liporuwcha namespace "c___ configuration, migration, updates"***
 
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
  ![c_configuration_migration_updates](https://bestia.dev/webpage_hit_counter/get_svg_image/1099681671.svg)
 
-## c - configuration, migration, update
+## c___ configuration, migration, update
 
 Every project evolves and the code and the database need to be updated. Sometimes it is called "migration". Living with a database is very dynamic. Much more than just living with a program.
 
@@ -16,7 +16,7 @@ When writing the code it must be always careful, that it does not break when a n
 
 To achieve integrity of the database all the code is concentrated inside the database. So other parts of the project can use common code.
 
-### ca - database objects
+### ca__ database objects
 
 - caa_ postgres server utils
 - cab_ postgres database utils
@@ -25,13 +25,13 @@ To achieve integrity of the database all the code is concentrated inside the dat
 - cav_ view
 - cap_ procedures  
 
-### cj - migration
+### cj__ migration
 
 how to migrate every table separately. Ideally without server downtime.
 
-### cs - backup and restore
+### cs__ backup and restore
 
-### ct - development, testing and production environment
+### ct__ development, testing and production environment
 
 ## Open-source and free as a beer
 
