@@ -5,6 +5,7 @@
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
  ![postgres](https://img.shields.io/badge/postgres-orange)
+ ![License](https://img.shields.io/badge/license-MIT-blue.svg)
  ![c_configuration_migration_updates](https://bestia.dev/webpage_hit_counter/get_svg_image/1099681671.svg)
 
 ## c___ configuration, migration, update
