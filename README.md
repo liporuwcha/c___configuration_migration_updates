@@ -1,6 +1,6 @@
 # c___configuration_migration_updates
 
-***liporuwcha namespace "c___ configuration, migration, updates"***
+***liporuwcha namespace c___ configuration, migration, updates***
 
  ![work-in-progress](https://img.shields.io/badge/work_in_progress-yellow)
  ![rustlang](https://img.shields.io/badge/rustlang-orange)
